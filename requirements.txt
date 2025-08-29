@@ -1,0 +1,6 @@
+Flask
+SQLAlchemy
+selenium
+webdriver-manager
+python-dotenv
+mysql-connector-python
